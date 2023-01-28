@@ -12,7 +12,7 @@
             - Setting up the databases and connecting it to Spring Boot by creating entity classes and Repository
             - Making the REST API read only
             - Displaying the list on the Angular list component
-    - *Release 2.0 *
+    - *Release 2.0*
         - Installing bootstrap
         - Integrating ecommerce website template into the Angular App
         - Displaying products by category using Angular routing - ActivatedRoute
